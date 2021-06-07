@@ -43,4 +43,5 @@ SMS бомбер с приятным веб-интерфейсом.
 
 ## Связь
 
-[Дискорд сервер](https://discord.gg/rAQmyK4T9R)
+1. [Дискорд сервер](https://discord.gg/rAQmyK4T9R)
+2. [Группа Вконтакте](https://vk.com/besheni_tadhzic_club)
